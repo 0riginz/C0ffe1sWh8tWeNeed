@@ -23,7 +23,7 @@ Code [english]
 Comments [english]
 Conversation [english]
 
-License:
+
 [License](../../create_plugin/foo/LICENSE.md)
 
 
