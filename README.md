@@ -26,5 +26,7 @@ Conversation [english]
 
 [License](https://github.com/0riginz/C0ffe1sWh8tWeNeed/blob/master/LICENSE.md)
 
+[Code of Conduct](https://github.com/0riginz/C0ffe1sWh8tWeNeed/blob/master/CODE_OF_CONDUCT.md)
+
 
 End of the project is August 13th.
