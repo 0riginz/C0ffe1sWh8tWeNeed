@@ -24,7 +24,7 @@ Comments [english]
 Conversation [english]
 
 
-[License](../../create_plugin/foo/LICENSE.md)
+[License](https://github.com/0riginz/C0ffe1sWh8tWeNeed/blob/master/LICENSE.md)
 
 
 End of the project is August 13th.
