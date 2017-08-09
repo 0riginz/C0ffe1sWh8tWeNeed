@@ -22,13 +22,20 @@
             <artifactId>kotlin-stdlib</artifactId>
             <version>${kotlin.version}</version>
         </dependency>
-
-
+             
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 
     <build>
         <sourceDirectory>${project.basedir}/src/Main/kotlin</sourceDirectory>
-        <plugins>
+        <testSourceDirectory>${project.basedir}/sry/Test/kotlin</sourceDirectory>     
+        
+          <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-assembly-plugin</artifactId>
@@ -62,8 +69,13 @@
                         <goals> <goal>compile</goal> </goals>
                     </execution>
 
-                </executions>
-            </plugin>
+                    <execution>
+                        <id>test-compile</id>
+                        <goals> <goal>test-compile</goal> </goals>
+                    </execution>
+           
+                 </executions>
+             </plugin>
         </plugins>
     </build>
 </project>
