@@ -2,9 +2,11 @@ package FinalProject
 
 import org.junit.Test
 
-class MainTest {
+class helloWorldTest {
+    
     @Test
-    fun helloWorldTest() {
+    fun testHelloWorld() {
+        
         println("Test Test, Hello!")
     }
 }
