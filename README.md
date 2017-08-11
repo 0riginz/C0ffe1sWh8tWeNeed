@@ -33,5 +33,5 @@ End of the project is August 13th.
 
 Launching the application
 
-After downloading the repository, open Windows Powershell and execute the following command after switching in the correct folder.
-java -jar target/C0ffe1sWh8tWeNeed-1.0-SNAPSHOT-jar-with-dependencies.jar
+Open Windows Powershell and execute the following command after switching in the correct folder.
+java -jar C0ffe1sWh8tWeNeed-1.0-SNAPSHOT-jar-with-dependencies.jar
