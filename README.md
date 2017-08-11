@@ -28,5 +28,13 @@ Conversation [english]
 
 [Code of Conduct](https://github.com/0riginz/C0ffe1sWh8tWeNeed/blob/master/CODE_OF_CONDUCT.md)
 
+Launching the application
+  
+
+ Open Windows Powershell and execute the following command after switching in the correct folder.
+ java -jar C0ffe1sWh8tWeNeed-1.0-SNAPSHOT-jar-with-dependencies.jar
+
+
+
 
 End of the project is August 13th.
