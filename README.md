@@ -15,7 +15,7 @@ Used Programms: Kotlin, Maven, Git and GitHub.
 To launch the programm:
 Open Windows Powershell and execute the following command after switching in the correct folder.
  
-      java -jar target/C0ffe1sWh8tWeNeed-1.0-SNAPSHOT-jar-with-dependencies.jar
+      java -jar target/C0ffe1sWh8tWeNeed-2.0-SNAPSHOT-jar-with-dependencies.jar
 
 # Further Information:
 
